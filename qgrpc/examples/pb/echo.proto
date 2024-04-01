@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option go_package = ".;pb";
+
+message EchoMassage{
+  string data = 1;
+}
+
+service Echo{
+  rpc Echo(EchoMassage) returns(EchoMassage);
+}
