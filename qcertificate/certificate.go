@@ -2,7 +2,7 @@ package qcertificate
 
 import (
 	"crypto/tls"
-	"github.com/lz01wcy/qtools/qpassword"
+	"github.com/lzyorozuya/qtools/qpassword"
 	"os"
 )
 

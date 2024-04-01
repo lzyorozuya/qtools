@@ -3,7 +3,7 @@ package qmongo
 import (
 	"context"
 	"fmt"
-	"github.com/lz01wcy/qtools/qlog"
+	"github.com/lzyorozuya/qtools/qlog"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/mongo/readpref"

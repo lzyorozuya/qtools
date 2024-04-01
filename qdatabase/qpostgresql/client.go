@@ -2,7 +2,7 @@ package qpostgresql
 
 import (
 	"fmt"
-	"github.com/lz01wcy/qtools/qpassword"
+	"github.com/lzyorozuya/qtools/qpassword"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

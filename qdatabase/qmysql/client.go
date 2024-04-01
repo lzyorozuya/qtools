@@ -3,7 +3,7 @@ package qmysql
 import (
 	"fmt"
 	mysqlDriver "github.com/go-sql-driver/mysql"
-	"github.com/lz01wcy/qtools/qpassword"
+	"github.com/lzyorozuya/qtools/qpassword"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"time"

@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/lz01wcy/qtools/qgrpc"
-	"github.com/lz01wcy/qtools/qgrpc/examples/pb"
+	"github.com/lzyorozuya/qtools/qgrpc"
+	"github.com/lzyorozuya/qtools/qgrpc/examples/pb"
 )
 
 func main() {

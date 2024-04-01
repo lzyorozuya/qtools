@@ -1,6 +1,6 @@
 package qmongo
 
-import "github.com/lz01wcy/qtools/qpassword"
+import "github.com/lzyorozuya/qtools/qpassword"
 
 type Info struct {
 	Url             string `yaml:"url" json:"url"` //Url优先于其他配置

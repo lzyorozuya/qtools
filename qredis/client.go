@@ -2,7 +2,7 @@ package qredis
 
 import (
 	"fmt"
-	"github.com/lz01wcy/qtools/qpassword"
+	"github.com/lzyorozuya/qtools/qpassword"
 	"github.com/redis/go-redis/v9"
 )
 

@@ -3,7 +3,7 @@ package qgrpc
 import (
 	"crypto/x509"
 	"fmt"
-	"github.com/lz01wcy/qtools/qcertificate"
+	"github.com/lzyorozuya/qtools/qcertificate"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 	"google.golang.org/grpc/credentials/insecure"

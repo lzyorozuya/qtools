@@ -1,7 +1,7 @@
 package qpassword
 
 import (
-	"github.com/lz01wcy/qtools/qcrypto"
+	"github.com/lzyorozuya/qtools/qcrypto"
 	"os"
 )
 

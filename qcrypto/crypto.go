@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"encoding/hex"
 	"fmt"
-	"github.com/lz01wcy/qtools/qhash"
+	"github.com/lzyorozuya/qtools/qhash"
 )
 
 func AESGCMEncrypt(key []byte, data []byte) ([]byte, error) {

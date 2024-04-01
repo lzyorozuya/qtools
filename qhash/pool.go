@@ -6,7 +6,7 @@ import (
 	"crypto/sha256"
 	"encoding/base64"
 	"encoding/hex"
-	"github.com/lz01wcy/qtools/qpool"
+	"github.com/lzyorozuya/qtools/qpool"
 	"golang.org/x/crypto/sha3"
 )
 
